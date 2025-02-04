@@ -11,6 +11,9 @@ Ensure you have the following installed:
 - SAP Business Application Studio or VS Code with CDS plugin
 - Postman or Insomnia for testing APIs
 
+
+**use SAP Business Application Studio(BAS) to avoid any installation errors**
+
 ---
 
 ## Step 1: Create a New SAP UI5 Project

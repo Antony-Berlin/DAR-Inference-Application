@@ -11,6 +11,8 @@ Ensure you have the following installed:
 - SAP Business Application Studio or VS Code with CDS plugin
 - Postman or Insomnia for testing APIs
 
+**use SAP Business Application Studio(BAS) to avoid any installation errors**
+
 ## Step 1: Create a New CAP Java Project
 1. Open a terminal and navigate to your working directory.
 2. Run the following command to create a new CAP project with Java support:
