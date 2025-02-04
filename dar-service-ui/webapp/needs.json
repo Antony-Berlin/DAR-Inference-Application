@@ -1,0 +1,32 @@
+{
+    "product":[
+      {
+        "need_Attribute": "K_V_ANL_P_BETR",
+        "characteristicvalues": ["10", "12", "13", "14", "15"]
+      },
+      {
+        "need_Attribute": "K_V_LIEFERME_P",
+        "characteristicvalues": ["100", "102", "103", "104", "105"]
+      },
+      {
+        "need_Attribute": "K_V_NETZ",
+        "characteristicvalues": ["10", "12", "13", "14", "15"]
+      },
+      {
+        "need_Attribute": "K_V_OPT_FU",
+        "characteristicvalues": ["10", "12", "13", "14", "15"]
+      },
+      {
+        "need_Attribute": "K_V_OPT_T",
+        "characteristicvalues": ["10", "12", "13", "14", "15"]
+      },
+      {
+        "need_Attribute": "K_V_OPT_WK",
+        "characteristicvalues": ["10", "12", "13", "14", "15"]
+      },
+      {
+        "need_Attribute": "K_V_OPT_AIRC",
+        "characteristicvalues": ["10", "12", "13", "14", "15"]
+      }
+    ]
+}

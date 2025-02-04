@@ -1,0 +1,11 @@
+<mvc:View
+  controllerName="ui5.walkthrough.controller.App"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m">
+  <App id="app">
+    <NavContainer id="navContainer">
+      <mvc:XMLView id="needsView" viewName="ui5.walkthrough.view.Needs" />
+      <mvc:XMLView id="resultView" viewName="ui5.walkthrough.view.Result" />
+    </NavContainer>
+  </App>
+</mvc:View>

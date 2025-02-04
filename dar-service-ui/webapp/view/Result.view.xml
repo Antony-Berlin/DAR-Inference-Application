@@ -1,0 +1,10 @@
+<mvc:View
+  controllerName="ui5.walkthrough.controller.Result"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m">
+  <Page title="Result">
+    <content>
+      <Text id="responseText" />
+    </content>
+  </Page>
+</mvc:View>

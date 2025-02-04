@@ -1,0 +1,18 @@
+<mvc:View
+	controllerName="ui5.walkthrough.controller.Needs"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+>
+	<Panel
+		headerText="{i18n>helloPanelTitle}"
+		class="sapUiResponsiveMargin"
+		width="auto"
+	>
+		<VBox id="formContainer">
+			<!-- Form elements will be added dynamically here -->
+		</VBox>
+		<HBox justifyContent="End">
+			<Button text="Show Product" press="onShowProduct" />
+		</HBox>
+	</Panel>
+</mvc:View>
