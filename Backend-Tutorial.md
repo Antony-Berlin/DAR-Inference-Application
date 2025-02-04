@@ -1,4 +1,4 @@
-# SAP CAP Java Application Development Guide
+# SAP CAP Java Application Development Guide - Backend
 
 ## Introduction
 This guide walks you through the steps to develop an SAP CAP (Cloud Application Programming) Java application that calls a DAR Model for inference using OAuth 2.0 authentication.
@@ -390,8 +390,7 @@ mvn clean spring-boot:run
    ```
     
 2. change the payload value if required and click on send request above th erequest url 
- <img width="394" alt="image" src="https://media.github.tools.sap/user/115497/files/dc33237c-d6e9-432e-a781-f5a72a647c79">
-.
+![alt text](images/image-4.png)
 
 
 

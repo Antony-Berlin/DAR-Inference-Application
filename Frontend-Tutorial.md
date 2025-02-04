@@ -1,8 +1,4 @@
-Here is the guide with explanations for each step added:
-
----
-
-# SAP CAP Java Application Development Guide
+# SAP CAP Java Application Development Guide - Frontend
 
 ## Introduction
 This guide walks you through the steps to develop an SAP CAP (Cloud Application Programming) Java application that calls a DAR Model for inference using OAuth 2.0 authentication.
