@@ -157,10 +157,6 @@ String getAccessToken() {
     String clientSecret = "your-client-secret";
     String grantType = "client_credentials";
 
-    JsonObject payload = new JsonObject();
-    payload.addProperty("client_id", clientId);
-    payload.addProperty("client_secret", clientSecret);
-    payload.addProperty("grant_type", grantType);
 
     try (CloseableHttpClient client = HttpClients.createDefault()) {
         HttpPost post = new HttpPost(authUrl);
